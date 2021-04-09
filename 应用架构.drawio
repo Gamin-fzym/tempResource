@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T03:11:17.336Z" agent="5.0 (Macintosh)" etag="bSyBK_r7B9A0MxB7es2p" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T03:16:03.643Z" agent="5.0 (Macintosh)" etag="YJLWUILAOVczgz049OKM" version="14.5.8" type="github">
   <diagram id="tvBMbFpT31evSggDGeiL" name="Page-1">
     <mxGraphModel dx="1031" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
         <mxCell id="PuL-V4dSkdKhYyvplN48-17" value="请求数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="640" y="510" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PuL-V4dSkdKhYyvplN48-18" value="活动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="PuL-V4dSkdKhYyvplN48-18" value="活动管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="560" y="550" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PuL-V4dSkdKhYyvplN48-19" value="粉丝管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
@@ -264,8 +264,14 @@
         <mxCell id="PuL-V4dSkdKhYyvplN48-89" value="广告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="490" y="240" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PuL-V4dSkdKhYyvplN48-90" value="其他" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="PuL-V4dSkdKhYyvplN48-90" value="品牌特卖" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="250" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PuL-V4dSkdKhYyvplN48-98" value="猜你喜欢" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PuL-V4dSkdKhYyvplN48-99" value="其他" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="410" y="280" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
