@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T05:33:50.859Z" agent="5.0 (Macintosh)" etag="yZ8AuY7xMSuLm-a6Av7b" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T05:35:05.095Z" agent="5.0 (Macintosh)" etag="hE875CZzpLuveSo1WOFC" version="14.5.8" type="github">
   <diagram id="NtPqI9kTRExBikKgAwcU" name="Page-1">
     <mxGraphModel dx="1220" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -172,7 +172,7 @@
         <mxCell id="tHbu37OB4x_Eq6fYE6Ek-1" value="Audio&lt;br&gt;（音频封装）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="760" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tHbu37OB4x_Eq6fYE6Ek-2" value="ImagePicker&lt;br&gt;(图片选择封装)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="tHbu37OB4x_Eq6fYE6Ek-2" value="ImagePicker&lt;br&gt;(图片选择)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="490" y="760" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tHbu37OB4x_Eq6fYE6Ek-3" value="&lt;div&gt;Toast&lt;/div&gt;&lt;div&gt;（提示）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
